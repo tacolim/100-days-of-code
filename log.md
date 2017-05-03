@@ -10,3 +10,10 @@
 1. [@tacolim codepen](https://codepen.io/tacolim/)
 2. [tacolim FCC](https://www.freecodecamp.com/tacolim)
 
+### Day 2: 2017 May 02, Tuesday
+**Today's Progress**: More FCC Basic JavaScript -- Loops
+
+**Thoughts** For Loops, While Loops, Nested Loops... I'm feeling a little loopy.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
