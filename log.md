@@ -17,3 +17,11 @@
 
 **Link(s) to work**
 1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+
+### Day 3: 2017 May 03, Wednesday
+**Today's Progress**: More FCC Basic JavaScript ; Also checked out Codecademy's Learn JavaScript
+
+**Thoughts** Tried to code a little during the day, difficult to concentrate with baby here.  Also difficult to concetrate when tired after baby is in bed for the night. Conundrum.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
