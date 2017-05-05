@@ -25,3 +25,11 @@
 
 **Link(s) to work**
 1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+
+### Day 4: 2017 May 04, Thursday - May the fourth be with you
+**Today's Progress**: Finished FCC Basic JavaScript 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
