@@ -27,9 +27,11 @@
 1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
 
 ### Day 4: 2017 May 04, Thursday - May the fourth be with you
-**Today's Progress**: Finished FCC Basic JavaScript 
+**Today's Progress**: Finished FCC Basic JavaScript ; Started work on Codecademy's Python Track
 
 **Thoughts** 
+Decided to tinker with Python a bit, just the very basics, but so far I'm liking it.
 
 **Link(s) to work**
 1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
