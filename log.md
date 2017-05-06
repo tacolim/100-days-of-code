@@ -4,7 +4,7 @@
 **Today's Progress**: Started working with [Learn Python the Hard Way](learnpythonthehardway.org/book)
 
 **Thoughts** 
-So far I am enjoying Python.  It seems very intuitive.  However, not sure I agree with the LPTHW author's methodologies all the time. Example: a FAQ was about how to comment out multiple lines and was answered with "put a # at the beginning of each line" - while this works technically there is a better way - putting three quotes at the top and bottom of the multi-line section you want to comment out.  Not sure why this was not used as a teachable moment and instead used to foster bad coding habits.
+So far I am enjoying Python.  It seems very intuitive.  However, not sure I agree with the LPTHW author's methodologies all the time. 
 ¯\_(ツ)_/¯
 
 I plan to keep moving forward with the resource and perhaps others for now.
