@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: 2017 May 07, Sunday
+**Today's Progress**: Made a VERY simple MadLib which I'm working on for fun and practice with a friend from twitter.
+
+**Thoughts** 
+It felt great to produce something functional even if it is SUPER simple.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots](https://tacolimcass.wordpress.com/2017/05/07/making-a-product/)
+
 ### Day 6: 2017 May 06, Saturday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book)
 
