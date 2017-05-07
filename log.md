@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: 2017 May 06, Saturday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book)
+
+**Thoughts** 
+Feeling more comfortable jumping back and forth between terminal and my text editor. Love that feeling.
+Also strangely thought I'd be more pumped to work on the weekend because my partner is home to help with the baby but instead had to force myself to work. I guess I got into "weekend mode" real hard.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+
 ### Day 5: 2017 May 05, Friday
 **Today's Progress**: Started working with [Learn Python the Hard Way](learnpythonthehardway.org/book)
 
