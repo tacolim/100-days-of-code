@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: 2017 May 09, Tuesday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book)
+
+**Thoughts** 
+Want to make a Choose Your Own Adventure.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots](https://tacolimcass.wordpress.com/2017/05/07/making-a-product/)
+
 ### Day 8: 2017 May 08, Monday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book)
 
