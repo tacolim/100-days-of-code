@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 10: 2017 May 010, Wednesday
+### Day 11: 2017 May 11, Thursday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).
+
+**Thoughts** 
+I like that this book forces me to do lots of google searching and digging and reading.  It's not just handed over.  I have to look for information and think about what I'm learning.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+
+### Day 10: 2017 May 10, Wednesday
 **Today's Progress**: Attended local Women's Code Night Meet-Up and worked on HTML.
 
 **Thoughts** 
