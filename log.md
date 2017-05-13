@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 12: 2017 May 12, Friday
+**Today's Progress**: Started Working with [Programming for Everybody(Getting Started on Python) - Coursera](https://www.coursera.org/learn/python/home/welcome)
+
+**Thoughts** 
+This is a course I learned about from one of the other young women at the meetup that I attended on Wednesday.  I'm really glad that I went to the meetup because I was able to network and gain information and share information.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+
 ### Day 11: 2017 May 11, Thursday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).
 
