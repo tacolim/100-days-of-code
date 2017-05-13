@@ -9,6 +9,7 @@ This is a course I learned about from one of the other young women at the meetup
 **Link(s) to work**
 1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
 2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Connections](https://tacolimcass.wordpress.com/2017/05/12/connections/)
 
 ### Day 11: 2017 May 11, Thursday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).
