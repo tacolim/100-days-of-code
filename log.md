@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 13: 2017 May 13, Saturday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).  Made my own function for funsies.
+
+**Thoughts** 
+Today I realized that some day the number of days I have coded will one day diverge from the day of the month number. On that day I will be sad.  I think that I will do LPTHW most days, Programming for Everybody from Coursera 2 days a week and one day a week I will work on the personal project I've decided to tinker with.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Connections](https://tacolimcass.wordpress.com/2017/05/12/connections/)
+
 ### Day 12: 2017 May 12, Friday
 **Today's Progress**: Started Working with [Programming for Everybody(Getting Started on Python) - Coursera](https://www.coursera.org/learn/python/home/welcome)
 
