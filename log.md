@@ -4,7 +4,8 @@
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).  Made my own function for funsies.
 
 **Thoughts** 
-Today I realized that some day the number of days I have coded will one day diverge from the day of the month number. On that day I will be sad.  I think that I will do LPTHW most days, Programming for Everybody from Coursera 2 days a week and one day a week I will work on the personal project I've decided to tinker with.
+Today I realized that some day the number of days I have coded will one day diverge from the day of the month number. On that day I will be sad.
+I think that I will do LPTHW most days, Programming for Everybody from Coursera 2 days a week and one day a week I will work on the personal project I've decided to tinker with.
 
 **Link(s) to work**
 1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
