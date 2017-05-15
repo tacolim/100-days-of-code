@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 14: 2017 May 14, Sunday - Happy Mother's Day!
+**Today's Progress**: Began work on landing page for a project I'm working on with my husband.
+
+**Thoughts** 
+This is going to be a huuuuuuuuuuuuuge project. I'm not looking forward to all the grunt work, but I'm definitely looking foward to the end product.  That's the best thing about programming: seeing something you created functioning.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Connections](https://tacolimcass.wordpress.com/2017/05/12/connections/)
+
 ### Day 13: 2017 May 13, Saturday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).  Made my own function for funsies.
 
