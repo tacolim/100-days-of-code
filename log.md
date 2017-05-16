@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 15: 2017 May 15, Monday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).
+
+**Thoughts** 
+I did most of my work during the day while my baby was playing on the floor nearby, while this is possible it's not best practice because I got distracted a great deal.  I think I may try it a time or two more to see if I can figure out a way to work during the day.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Connections](https://tacolimcass.wordpress.com/2017/05/12/connections/)
+
 ### Day 14: 2017 May 14, Sunday - Happy Mother's Day!
 **Today's Progress**: Began work on landing page for a project I'm working on with my husband.
 
