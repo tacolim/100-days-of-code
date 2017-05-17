@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: 2017 May 16, Tuesday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).
+
+**Thoughts** 
+One of the things I did today was debugging which was a lot of fun! (Does that make me weird?)
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Connections](https://tacolimcass.wordpress.com/2017/05/12/connections/)
+
 ### Day 15: 2017 May 15, Monday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).
 
