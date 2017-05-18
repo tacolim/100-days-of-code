@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: 2017 May 17, Wednesday
+**Today's Progress**: More work with [Programming for Everybody(Getting Started on Python) - Coursera](https://www.coursera.org/learn/python/home/welcome)
+
+**Thoughts** 
+I'm glad I decided to take this course. It's totally different from LPTHW and I like that I'm getting my knowledge from two different perspectives.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Connections](https://tacolimcass.wordpress.com/2017/05/12/connections/)
+
 ### Day 16: 2017 May 16, Tuesday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book).
 
