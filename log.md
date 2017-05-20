@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 ### Day 18: 2017 May 18, Thursday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; Worked on Loops & Lists
+
+**Thoughts** Spent lots of time googling how to do fav_food raw_input list (not part of assignment). I think that means I like it.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Connections](https://tacolimcass.wordpress.com/2017/05/12/connections/)
+
+### Day 18: 2017 May 18, Thursday
 **Today's Progress**: More work with [Programming for Everybody(Getting Started on Python) - Coursera](https://www.coursera.org/learn/python/home/welcome) & More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; Worked on Logic/Booleans
 
 **Thoughts** 
