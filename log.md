@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 20: 2017 May 20, Thursday
+### Day 21: 2017 May 21, Sunday
+**Today's Progress**: Lost power - did some code by hand ; Worked on Loops & Lists
+
+**Thoughts** Need to take more and better longhand notes while learning to solidify my understanding and recall.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Code by Candlelight](https://tacolimcass.wordpress.com/2017/05/22/code-by-candlelight/)
+
+### Day 20: 2017 May 20, Saturday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; Worked on Loops & Lists
 
 **Thoughts** Spent lots of time googling how to make a grocery list relying on raw_input & while loop (not part of assignment). I think that means I like it.
@@ -10,7 +20,7 @@
 2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
 3. [Deep Roots - Connections](https://tacolimcass.wordpress.com/2017/05/12/connections/)
 
-### Day 19: 2017 May 19, Thursday
+### Day 19: 2017 May 19, Friday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; Worked on Loops & Lists
 
 **Thoughts** Spent lots of time googling how to do fav_food raw_input list (not part of assignment). I think that means I like it.
