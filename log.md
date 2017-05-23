@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 22: 2017 May 22, Monday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; More Loops & Lists
+
+**Thoughts** I'm exhausted and had to force myself to code tonight.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Code by Candlelight](https://tacolimcass.wordpress.com/2017/05/22/code-by-candlelight/)
+
 ### Day 21: 2017 May 21, Sunday
 **Today's Progress**: Lost power - did some code by hand ; Worked on Loops & Lists
 
