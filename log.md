@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 24: 2017 May 24, Wednesday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; Designing & Debugging. <3
+
+**Thoughts** <3 <3 <3
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Code by Candlelight](https://tacolimcass.wordpress.com/2017/05/22/code-by-candlelight/)
+
 ### Day 23: 2017 May 23, Tuesday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; Lists, Branches, Functions. <3
 
