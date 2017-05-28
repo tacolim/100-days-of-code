@@ -12,12 +12,6 @@
 
 ### BREAK: 2017 May 26, Friday
 **Today's Progress**: N/A Spent time with family visiting from out of town.
-**Thoughts** <3 <3 <3
-
-**Link(s) to work**
-1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
-2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
-3. [Deep Roots - Code by Candlelight](https://tacolimcass.wordpress.com/2017/05/22/code-by-candlelight/)
 
 ### Day 25: 2017 May 25, Thursday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; Designing & Debugging. <3
