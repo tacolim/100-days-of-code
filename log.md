@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 28: 2017 May 29, Monday
+**Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; More fun with lists.
+
+**Thoughts** Another day where I'm forcing myself to work. Super tired and getting prepped for three days at the beach.  Gonna have to force myself to code in the sand too.
+
+**Link(s) to work**
+1. [tacolim FCC](https://www.freecodecamp.com/tacolim)
+2. [tacolim Codecademy](https://www.codecademy.com/users/tacolim/achievements)
+3. [Deep Roots - Code by Candlelight](https://tacolimcass.wordpress.com/2017/05/22/code-by-candlelight/)
+
 ### Day 27: 2017 May 28, Sunday
 **Today's Progress**: More [Learn Python the Hard Way](learnpythonthehardway.org/book) ; Review important terms and concepts. <3
 
